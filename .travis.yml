@@ -13,4 +13,4 @@ deploy:
   file: target/spring-petclinic-2.3.0.BUILD-SNAPSHOT.jar
   skip_cleanup: true
   on:
-    branch: main
+    tags: true
