@@ -10,7 +10,7 @@ deploy:
   provider: releases
   api_key:
     secure: q2f8B9bmS/cZdVSAjx9NYhZQ40FZaqlfZlf7DzdkDS6PjRolakPmQMvg62Hpd21HDpbdsVrzF3XVoFYDqkDm7Q5T199AqC3Skb2f/ZKx5ggLY2M4ApAvW07dYhng/8e818bYrjD7WrMHu8XlYMKzkzN5iYu01QEoTWyvlHdH03Ts9+UZjHWTHQ6XtYYPTur0NRAFB6nS+GYXOqN0cztBBrFocaN8UBh9IuG1LInbCTY1AOpdd2AzE9CUqqDUUPGFuGK7nXuysK97Pz0hj8rfAVWTwxmT5MwSmVwhSKU9373CLAZTjLGrScf/qCLoXIAVM7QVLjre9+lOEt4wJYqBCq3iwJkMF4kFVxS7hJUNOZ4diqBOzXDpSlTogyY6joJE9dHTimPTen14zzsHoabdnkxdHO7n+Ft21wVepqB1P4xHDTXW087VXlpBC9gVHlP9fHHyOarp72/D/WqGh2NjO8wY1FsoxbTaxlgARY0gYIP9VrSOq3cGFs6KNQM76h7r3QqR81rUWGBkwWapP+1Y5/NwRUweIQe4/vHJdhY+y4ek56XrTBJWBXwezP2zeqQstXbtev97Tpaezbo/G574VBqi6xiXFoDTyRMgbnV3zelaKjRjo5tEjeBr5UlgW/ffr/CbfU66zozcoEsqVmuYg9KsPSn7gxJ2NZNkCLZWWck=
-  file: target/spring-petclinic-2.3.1.BUILD-SNAPSHOT.jar
+  file: target/spring-petclinic-2.3.2.BUILD-SNAPSHOT.jar
   skip_cleanup: true
   on:
     tags: true
